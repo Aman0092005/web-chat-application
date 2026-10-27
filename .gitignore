@@ -1,0 +1,15 @@
+# Dependencies and generated builds
+node_modules/
+client/node_modules/
+server/node_modules/
+client/dist/
+.npm-cache/
+
+# Local configuration and user-uploaded media
+server/.env
+server/uploads/
+
+# Logs and OS/editor files
+*.log
+.DS_Store
+.vscode/
